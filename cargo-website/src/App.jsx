@@ -8,6 +8,7 @@ import Result from './components/result'
 
 const App = () => {
   return (
+    
     <>
 <Hero/>
 <Casestudy/>
