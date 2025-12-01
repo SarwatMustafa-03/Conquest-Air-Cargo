@@ -5,6 +5,7 @@ import Challenges from './components/challenges'
 import Research from './components/Research'
 import Userpoints from './components/userpoints'
 import Result from './components/result'
+import Footer from './components/footer'
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
 <Research/>
 <Userpoints/>
 <Result/>
+<Footer/>
 </>
   )
 }
